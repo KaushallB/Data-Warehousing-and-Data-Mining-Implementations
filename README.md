@@ -37,7 +37,6 @@ The repository includes:
    - Hierarchical clustering
    - Result analysis and visualization
 
-## Preview Images
 
 ### Index Preview
 ![Index](Index.png)
