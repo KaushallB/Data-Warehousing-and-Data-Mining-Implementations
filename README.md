@@ -1,4 +1,4 @@
-# Data Mining Laboratory Work
+# Data Warehousing and Data Mining Laboratory Work
 
 This repository contains the complete set of laboratory exercises completed as part of the Data Warehousing and Data Mining course. It includes datasets, trained machine learning models, experiment outputs, preview images, and the compiled laboratory report in PDF format.
 
