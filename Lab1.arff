@@ -1,0 +1,15 @@
+@relation primarydata-weka.filters.unsupervised.instance.RemoveDuplicates-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute RollNo numeric
+@attribute Name {Ram,Sita,Hari,Gita,Bishal,Anita}
+@attribute District {KATHMANDU,POKHARA,LALITPUR,CHITWAN}
+@attribute Age numeric
+@attribute CGPA {A-,B+,A}
+
+@data
+1,Ram,KATHMANDU,19,A-
+2,Sita,KATHMANDU,18,A-
+3,Hari,POKHARA,19,B+
+4,Gita,LALITPUR,19,A-
+5,Bishal,KATHMANDU,20,A-
+6,Anita,CHITWAN,19,A

@@ -1,0 +1,19 @@
+@relation lab8_fp_tree-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last-weka.filters.unsupervised.attribute.Remove-R1
+
+@attribute Laptop {Yes,No}
+@attribute Mouse {Yes,No}
+@attribute Keyboard {Yes,No}
+@attribute Headphone {No,Yes}
+@attribute USB {Yes,No}
+
+@data
+Yes,Yes,Yes,No,Yes
+No,Yes,No,Yes,No
+Yes,No,Yes,No,Yes
+Yes,Yes,Yes,Yes,Yes
+No,Yes,No,Yes,No
+Yes,Yes,Yes,No,Yes
+Yes,No,Yes,Yes,Yes
+No,Yes,No,Yes,No
+Yes,Yes,Yes,No,Yes
+Yes,Yes,Yes,Yes,Yes

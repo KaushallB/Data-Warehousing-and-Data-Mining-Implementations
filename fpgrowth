@@ -1,0 +1,26 @@
+=== Run information ===
+
+Scheme:       weka.associations.FPGrowth -P 2 -I -1 -N 10 -T 0 -C 0.7 -D 0.05 -U 1.0 -M 0.2
+Relation:     lab8_fp_tree-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    10
+Attributes:   5
+              Laptop
+              Mouse
+              Keyboard
+              Headphone
+              USB
+=== Associator model (full training set) ===
+
+FPGrowth found 43 rules (displaying top 10)
+
+ 1. [USB=No]: 3 ==> [Headphone=Yes]: 3   <conf:(1)> lift:(1.67) lev:(0.12) conv:(1.2) 
+ 2. [Laptop=No]: 3 ==> [Headphone=Yes]: 3   <conf:(1)> lift:(1.67) lev:(0.12) conv:(1.2) 
+ 3. [Keyboard=No]: 3 ==> [Headphone=Yes]: 3   <conf:(1)> lift:(1.67) lev:(0.12) conv:(1.2) 
+ 4. [USB=No]: 3 ==> [Laptop=No]: 3   <conf:(1)> lift:(3.33) lev:(0.21) conv:(2.1) 
+ 5. [Laptop=No]: 3 ==> [USB=No]: 3   <conf:(1)> lift:(3.33) lev:(0.21) conv:(2.1) 
+ 6. [USB=No]: 3 ==> [Keyboard=No]: 3   <conf:(1)> lift:(3.33) lev:(0.21) conv:(2.1) 
+ 7. [Keyboard=No]: 3 ==> [USB=No]: 3   <conf:(1)> lift:(3.33) lev:(0.21) conv:(2.1) 
+ 8. [Laptop=No]: 3 ==> [Keyboard=No]: 3   <conf:(1)> lift:(3.33) lev:(0.21) conv:(2.1) 
+ 9. [Keyboard=No]: 3 ==> [Laptop=No]: 3   <conf:(1)> lift:(3.33) lev:(0.21) conv:(2.1) 
+10. [USB=No]: 3 ==> [Headphone=Yes, Laptop=No]: 3   <conf:(1)> lift:(3.33) lev:(0.21) conv:(2.1) 
+

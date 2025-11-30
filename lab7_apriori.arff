@@ -1,0 +1,20 @@
+@relation lab7_apriori-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last
+
+@attribute TransactionID {1,2,3,4,5,6,7,8,9,10}
+@attribute Laptop {Yes,No}
+@attribute Mouse {Yes,No}
+@attribute Keyboard {Yes,No}
+@attribute Headphone {No,Yes}
+@attribute USB {Yes,No}
+
+@data
+1,Yes,Yes,Yes,No,Yes
+2,No,Yes,No,Yes,No
+3,Yes,No,Yes,No,Yes
+4,Yes,Yes,Yes,Yes,Yes
+5,No,Yes,No,Yes,No
+6,Yes,Yes,Yes,No,Yes
+7,Yes,No,Yes,Yes,Yes
+8,No,Yes,No,Yes,No
+9,Yes,Yes,Yes,No,Yes
+10,Yes,Yes,Yes,Yes,Yes

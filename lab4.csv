@@ -1,0 +1,16 @@
+StudentID,Ecommerce,DWDM,OperationsManagement,Attendance,StudyHours,Result
+1,High,High,High,Good,High,Pass
+2,Low,Low,Low,Poor,Low,Fail
+3,Medium,Medium,High,Good,Medium,Pass
+4,Low,Low,Low,Poor,Low,Fail
+5,High,High,High,Excellent,High,Pass
+6,Medium,High,Medium,Good,Medium,Pass
+7,Low,Medium,Low,Poor,Low,Fail
+8,High,High,High,Good,High,Pass
+9,Low,Low,Medium,Poor,Low,Fail
+10,Medium,Medium,High,Good,Medium,Pass
+11,High,Medium,High,Excellent,High,Pass
+12,Low,Low,Low,Poor,Low,Fail
+13,Medium,High,Medium,Good,Medium,Pass
+14,High,High,High,Excellent,High,Pass
+15,Low,Medium,Low,Poor,Low,Fail
