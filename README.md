@@ -43,7 +43,6 @@ The repository includes:
 
 ## Viewing the PDF Report in GitHub
 
-
 You can open the full lab report here:
 
 **[Click to View Labreps.pdf](Labreps.pdf)**
