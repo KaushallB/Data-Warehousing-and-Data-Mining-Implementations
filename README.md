@@ -56,7 +56,7 @@ You can open the full lab report here:
 
 ## Installation and Setup
 
-### WEKA Setup (Labs 1–9)
+### WEKA Setup (Labs 1–10)
 
 1. Download WEKA 3.9.6  
    https://waikato.github.io/weka-wiki/downloading_weka/
@@ -67,7 +67,7 @@ You can open the full lab report here:
 4. Load pre-trained models:  
    Classify → Right-click → Load Model → Select .model file
 
-### Python Setup (Labs 10–12)
+### Python Setup (Labs 11–13)
 
 1. Install Python 3.x from https://www.python.org
 2. Install dependencies:
